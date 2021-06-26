@@ -1,5 +1,5 @@
 
-#Generic product CRUD application.
+#Api for student CRUD
 
 Connection to a database is required, if you prefer, run the command:
 
